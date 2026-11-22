@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.10.1.apk",
-    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.1/MyRP-v1.10.1.apk",
-    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.1.apk",
-    "version":  "1.10.1",
-    "notes":  "1. 优化跨模块转化入口：角色卡「导出选项」新增「导出为小说」与「导出到墨匠精修」；小说工坊去掉顶栏突兀的联动按钮，将「导出为角色卡并开聊」与「导出到墨匠精修」自然合并进「导出与转化」弹窗，书架新增「从聊天导入」。\\n2. 更新下载已切换至香港本地硬盘缓存直连，晚高峰也稳定秒下。"
+    "apkName":  "MyRP-v1.10.2.apk",
+    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.2/MyRP-v1.10.2.apk",
+    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.2.apk",
+    "version":  "1.10.2",
+    "notes":  "1. 聊天转小说全面升级：导入时自动剥离状态栏、界面代码、思考过程、选项菜单等非正文内容，只保留纯文字。\\n2. 不再把全部聊天塞进序章：自动按剧情分章，AI 逐章生成章节名、细纲与摘要，并汇总书名、题材、文风、卷名与全书大纲，自动识别重要配角收进设定集。\\n3. 支持三种转化方式（完整转写正文 / 只整理结构 / 不用 AI 仅清洗分章），带进度条，可随时停止，已完成章节自动保存。\\n4. 角色卡「导出为小说」现在也能读取非当前角色的聊天记录。"
 }
