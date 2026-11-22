@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.7.2.apk",
-    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.7.2/MyRP-v1.7.2.apk",
-    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.7.2.apk",
-    "version":  "1.7.2",
-    "notes":  "1. 墨匠「内置实机试玩」顶部工具栏支持一键折叠/展开，手机端默认折叠为极简单行顶栏，大幅释放聊天可视空间。"
+    "apkName":  "MyRP-v1.8.0.apk",
+    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.8.0/MyRP-v1.8.0.apk",
+    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.8.0.apk",
+    "version":  "1.8.0",
+    "notes":  "1. 全新可拖动贴边半藏悬浮球（松手自动吸附左右屏边缩成半圆并记住位置），移除内置插件中心，保留清爽的「角色画廊」「随身工具」与「主题工坊」。\\n2. 全面原创化重塑：「场景模型方案（精写/剧情/速聊/备用A/B）」「本地数据中心（空间监控+语义记忆缓存+本地目录保险箱）」「卡片观感适配」与「发送内容保护」。"
 }
