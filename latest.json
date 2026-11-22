@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.10.2.apk",
-    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.2/MyRP-v1.10.2.apk",
-    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.2.apk",
-    "version":  "1.10.2",
-    "notes":  "1. 聊天转小说全面升级：导入时自动剥离状态栏、界面代码、思考过程、选项菜单等非正文内容，只保留纯文字。\\n2. 不再把全部聊天塞进序章：自动按剧情分章，AI 逐章生成章节名、细纲与摘要，并汇总书名、题材、文风、卷名与全书大纲，自动识别重要配角收进设定集。\\n3. 支持三种转化方式（完整转写正文 / 只整理结构 / 不用 AI 仅清洗分章），带进度条，可随时停止，已完成章节自动保存。\\n4. 角色卡「导出为小说」现在也能读取非当前角色的聊天记录。"
+    "apkName":  "MyRP-v1.10.3.apk",
+    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.3/MyRP-v1.10.3.apk",
+    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.3.apk",
+    "version":  "1.10.3",
+    "notes":  "1. 修复聊天转小说卡在第 1 章不动：小说工坊改用与主聊天相同的原生后台通道，收到生成结束标记立即收尾，不再傻等中转接口断开连接。\\n2. 增加 2 分钟无响应自动中断，进度弹窗实时显示等待秒数、思考字数与已接收字数。\\n3. 单章失败不再中断整本书：失败章节保留清洗后的原文，自动继续下一章。\\n4. 小说工坊的续写、润色、生成摘要等 AI 功能同样受益于本次修复。"
 }
