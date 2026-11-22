@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.11.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.11.0/MyRP-v1.11.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.11.0.apk",
-  "version": "1.11.0",
-  "notes": "原创小说：输入灵感或让 AI 自由构思，选择故事方向后生成主线、人物、世界规则和开篇细纲。采用前可编辑。\n已有作品可以用 AI 补充人物、构思本章细纲，生成的正文可先预览再采用。\n聊天转小说：新增场景规划、视角、文风与改编幅度。分场改写可续跑，原文和候选稿分开保留。\n长篇写作可检索相关早期剧情。检测输出截断，分段处理长章摘要。"
+  "apkName": "MyRP-v1.12.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.0/MyRP-v1.12.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.0.apk",
+  "version": "1.12.0",
+  "notes": "小说工坊：所有 AI 候选稿都能提意见再改，保留多个版本可切换；选中一段提意见只改这一段；AI 会附简短说明。\n构思新书改为点选题材、视角、基调等偏好，可一键来个灵感，按方向→人物→大纲→开篇细纲逐步确认。\n续写可先选走向，可写到本场或本章结束，细纲分场后可按场写，采用后给出下一步建议并自动更新摘要。\n设定集：让 AI 改条目，人物当前状态和伏笔进度在每章后由 AI 提议、你确认后保存，写作只带入相关设定。\n大纲：主线拆成核心冲突、主角弧光、关键转折、结局方向，可单项让 AI 改；章节列表显示细纲；可规划后面五章；常用意见可存为本书写作规则。"
 }
