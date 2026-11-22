@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.7.1.apk",
-    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.7.1/MyRP-v1.7.1.apk",
-    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.7.1.apk",
-    "version":  "1.7.1",
-    "notes":  "1. 修复检查更新偶发 403 限流问题，改用香港加速节点与静态版本清单，检查和下载更快更稳。\\n2. 完整集成墨匠工坊（含原生后台流式、本地导出与内置实机试玩）。"
+    "apkName":  "MyRP-v1.7.2.apk",
+    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.7.2/MyRP-v1.7.2.apk",
+    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.7.2.apk",
+    "version":  "1.7.2",
+    "notes":  "1. 墨匠「内置实机试玩」顶部工具栏支持一键折叠/展开，手机端默认折叠为极简单行顶栏，大幅释放聊天可视空间。"
 }
