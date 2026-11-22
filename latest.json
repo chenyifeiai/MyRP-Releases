@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.8.0.apk",
-    "notes":  "1. 全新可拖动贴边半藏悬浮球（松手自动吸附左右屏边缩成半圆并记住位置），移除内置插件中心，保留清爽的「角色画廊」「随身工具」与「主题工坊」。\\n2. 全面原创化重塑：「场景模型方案（精写/剧情/速聊/备用A/B）」「本地数据中心（空间监控+语义记忆缓存+本地目录保险箱）」「卡片观感适配」与「发送内容保护」。",
-    "apkUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.8.0/MyRP-v1.8.0.apk",
-    "version":  "1.8.0",
-    "hkFallbackUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.8.0.apk"
+    "apkName":  "MyRP-v1.9.0.apk",
+    "notes":  "1. 全新上线 100% 原创「小说工坊」（彻底替代旧版小说生成）：包含多作品书架、分卷与章节管理、人物/世界观/伏笔设定集、长篇防遗忘章节摘要链、以及流式续写/按细纲成章/局部扩写/文风润色/一键导出 TXT \u0026 Markdown \u0026 工程备份。\\n2. 直接复用主软件已配置的接口与 5 套场景模型方案，走安卓原生后台流式不断流。",
+    "apkUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.9.0/MyRP-v1.9.0.apk",
+    "version":  "1.9.0",
+    "hkFallbackUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.9.0.apk"
 }
