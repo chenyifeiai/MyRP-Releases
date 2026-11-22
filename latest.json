@@ -1,7 +1,7 @@
 {
     "apkName":  "MyRP-v1.10.0.apk",
-    "notes":  "1. 全新打通「聊天剧场 ↔ 小说工坊 ↔ 墨匠工坊」三条跨模块联动：\\n   - 聊天剧情一键导入小说工坊（支持同步导入角色设定/世界书，并支持 AI 文学化转写成小说正文）；\\n   - 小说人物一键生成标准角色卡（自动附带世界观/伏笔为世界书，支持 AI 写开场白）并直接跳进聊天开聊；\\n   - 小说大纲与设定集一键打包送到墨匠工坊，顶部横幅一键填入输入框精修精品卡。\\n2. 优化软件内下载通道优先级，避开限流镜像提升下载速度。",
-    "apkUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.0/MyRP-v1.10.0.apk",
+    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.0/MyRP-v1.10.0.apk",
+    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.0.apk",
     "version":  "1.10.0",
-    "hkFallbackUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.0.apk"
+    "notes":  "1. 全新打通「聊天剧场 ↔ 小说工坊 ↔ 墨匠工坊」三条跨模块联动（聊天剧情一键转小说、小说人物一键开聊、设定集送去墨匠精修大卡）。\\n2. 下载通道已切至香港本地硬盘缓存直连，稳定不卡。"
 }
