@@ -1,7 +1,7 @@
 {
-    "apkName":  "MyRP-v1.10.3.apk",
-    "fallbackUrl":  "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.10.3/MyRP-v1.10.3.apk",
-    "apkUrl":  "https://cg.chenyifei.xyz/myrp/MyRP-v1.10.3.apk",
-    "version":  "1.10.3",
-    "notes":  "1. 修复聊天转小说卡在第 1 章不动：小说工坊改用与主聊天相同的原生后台通道，收到生成结束标记立即收尾，不再傻等中转接口断开连接。\\n2. 增加 2 分钟无响应自动中断，进度弹窗实时显示等待秒数、思考字数与已接收字数。\\n3. 单章失败不再中断整本书：失败章节保留清洗后的原文，自动继续下一章。\\n4. 小说工坊的续写、润色、生成摘要等 AI 功能同样受益于本次修复。"
+  "apkName": "MyRP-v1.11.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.11.0/MyRP-v1.11.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.11.0.apk",
+  "version": "1.11.0",
+  "notes": "原创小说：输入灵感或让 AI 自由构思，选择故事方向后生成主线、人物、世界规则和开篇细纲。采用前可编辑。\n已有作品可以用 AI 补充人物、构思本章细纲，生成的正文可先预览再采用。\n聊天转小说：新增场景规划、视角、文风与改编幅度。分场改写可续跑，原文和候选稿分开保留。\n长篇写作可检索相关早期剧情。检测输出截断，分段处理长章摘要。"
 }
