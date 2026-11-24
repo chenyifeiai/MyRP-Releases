@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.13.3.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.13.3/MyRP-v1.13.3.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.13.3.apk",
-  "version": "1.13.3",
-  "notes": "小说工坊工具栏保持单行，续写、召唤读者和人物/伏笔直接可点。定稿、版本历史等工具从「更多」向上展开。"
+  "apkName": "MyRP-v1.14.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.14.0/MyRP-v1.14.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.14.0.apk",
+  "version": "1.14.0",
+  "notes": "小说工坊的「召唤读者」改为自动评论。书架开启一次，章节、番外等特殊篇章和全书就会自动生成带读者对话的评论。"
 }
