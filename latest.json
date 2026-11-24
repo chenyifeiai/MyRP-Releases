@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.12.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.0/MyRP-v1.12.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.0.apk",
-  "version": "1.12.0",
-  "notes": "小说工坊：所有 AI 候选稿都能提意见再改，保留多个版本可切换；选中一段提意见只改这一段；AI 会附简短说明。\n构思新书改为点选题材、视角、基调等偏好，可一键来个灵感，按方向→人物→大纲→开篇细纲逐步确认。\n续写可先选走向，可写到本场或本章结束，细纲分场后可按场写，采用后给出下一步建议并自动更新摘要。\n设定集：让 AI 改条目，人物当前状态和伏笔进度在每章后由 AI 提议、你确认后保存，写作只带入相关设定。\n大纲：主线拆成核心冲突、主角弧光、关键转折、结局方向，可单项让 AI 改；章节列表显示细纲；可规划后面五章；常用意见可存为本书写作规则。"
+  "apkName": "MyRP-v1.12.3.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.3/MyRP-v1.12.3.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.3.apk",
+  "version": "1.12.3",
+  "notes": "小说工坊新增「召唤读者」AI 评论（本章评论、段评、书评，可单独选便宜的评论模型）和「按意见修改整本设定」。"
 }
