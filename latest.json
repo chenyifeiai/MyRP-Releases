@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.12.4.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.4/MyRP-v1.12.4.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.4.apk",
-  "version": "1.12.4",
-  "notes": "小说工坊手机端：顶栏、章节栏、AI 输入栏和底部导航压缩，正文区域高度增加约一半。\n点进正文打字时自动隐藏顶栏和底部导航，正文更大。"
+  "apkName": "MyRP-v1.13.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.13.0/MyRP-v1.13.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.13.0.apk",
+  "version": "1.13.0",
+  "notes": "小说工坊新增正文版本历史，刷新后仍可对照和恢复整章或选段。\n新增本章定稿，勾选有原文依据的人物状态和伏笔变化，后续章节默认参考定稿。\n整本设定调整后可逐章定位冲突并采用局部修订。书架支持保存、继续和复制多个构思。"
 }
