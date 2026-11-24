@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.12.3.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.3/MyRP-v1.12.3.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.3.apk",
-  "version": "1.12.3",
-  "notes": "小说工坊新增「召唤读者」AI 评论（本章评论、段评、书评，可单独选便宜的评论模型）和「按意见修改整本设定」。"
+  "apkName": "MyRP-v1.12.4.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.12.4/MyRP-v1.12.4.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.12.4.apk",
+  "version": "1.12.4",
+  "notes": "小说工坊手机端：顶栏、章节栏、AI 输入栏和底部导航压缩，正文区域高度增加约一半。\n点进正文打字时自动隐藏顶栏和底部导航，正文更大。"
 }
