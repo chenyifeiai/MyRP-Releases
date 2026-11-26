@@ -1,7 +1,7 @@
 {
-  "apkName": "MyRP-v1.14.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.14.0/MyRP-v1.14.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.14.0.apk",
-  "version": "1.14.0",
-  "notes": "小说工坊的「召唤读者」改为自动评论。书架开启一次，章节、番外等特殊篇章和全书就会自动生成带读者对话的评论。"
+  "apkName": "MyRP-v1.15.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.15.0/MyRP-v1.15.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.15.0.apk",
+  "version": "1.15.0",
+  "notes": "三端彻底打通（聊天 ⇄ 小说 ⇄ 墨匠）：切页保活不重刷、全局接口与深色模式同步、角色卡与小说无损建墨匠工程、墨匠一键导回聊天/原位更新/孵化或回写小说、聊天剧情追加进关联小说、三合一本地备份恢复、可选万象灯塔账号绑定，以及一键备齐万相广场发卡包。"
 }
