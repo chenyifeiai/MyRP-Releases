@@ -1,8 +1,8 @@
 {
-  "apkName": "MyRP-v1.16.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.16.0/MyRP-v1.16.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.16.0.apk",
-  "version": "1.16.0",
-  "versionCode": 36,
-  "notes": "三期全面升级 + 手机阅读排版焕新（默认混合卡片/一键切换书页沉浸）：重抽多版本状态联动对比、一键继续写、场景备忘与导演纸条、全历史搜索定位、大模型前缀缓存省费、世界书进阶引擎、长期记忆手动记与核心置顶、UI 状态栏自愈保底离线秒开，并启用全新「星辰魔导典籍」应用图标。"
+  "apkName": "MyRP-v1.16.1.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.16.1/MyRP-v1.16.1.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.16.1.apk",
+  "version": "1.16.1",
+  "versionCode": 37,
+  "notes": "v1.16.1：精简操作栏按钮并标清「重抽」字样与就地生成提示，合入手机阅读排版焕新（默认混合卡片/一键书页沉浸）、多版本状态联动对比、场景备忘与导演纸条、全历史搜索定位、前缀缓存省费、世界书进阶引擎、长期记忆核心置顶、状态栏保底离线秒开及「星辰魔导典籍」新图标。"
 }
