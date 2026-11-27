@@ -1,10 +1,9 @@
 {
-  "apkName": "MyRP-v1.17.2.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.2/MyRP-v1.17.2.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.2.apk",
-  "version": "1.17.2",
-  "versionCode": 42,
-  "sha256": "454888296a6331f84a1ab8167871b6e06aa49e35ce28118706441e40c6fe18a5",
-  "size": 4978552,
-  "notes": "1. 优化「BUG 与建议」与「万象更新」弹窗视觉与手机端排版，在玻璃质感主题下统一使用不透光实底，去掉多层窄边距挤占，铺满屏幕宽度并让类型切换、附件与提交按钮、列表筛选条整齐成行；\n2. 包含 v1.17.1 全部升级：修复开启「发送内容保护」时隐藏字符误膨大世界书与状态栏上下文的问题，并加入与墨匠同款的 BUG 与建议反馈入口。"
+  "version": "1.19.0",
+  "versionCode": 45,
+  "apkName": "MyRP-v1.19.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.19.0.apk",
+  "sha256": "e6cda4fcca6a797c24c02617a7b0c821195c7749842f77e8e29bec2ddeb0c39a",
+  "size": 5046179,
+  "notes": "1. 新增三大模块（小说工坊 / 墨匠工坊 / 轻聊模拟）本机同域免重装热更新，保留全部本地作品与记录，支持随时刷新或一键恢复内置版；\n2. 小说工坊连向轻聊的入口抽离为独立外挂，后续升级互不冲突。"
 }
