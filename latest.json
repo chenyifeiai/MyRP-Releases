@@ -1,10 +1,10 @@
 {
-  "apkName": "MyRP-v1.17.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.0/MyRP-v1.17.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.0.apk",
-  "version": "1.17.0",
-  "versionCode": 40,
-  "sha256": "cc399e714e13c63d2d66a14877be2ec8e2eb033f5731307fc5d5fd33e393f7df",
-  "size": 4970592,
-  "notes": "1. 新增万象角色卡更新提醒与三层角标（排在后面的更新卡会在管理页顶部横幅高亮，支持点击直达定位与「只看有更新」筛选，不打乱原有收藏排序）；\n2. 支持准一键前往万象对应卡面并拦截应用原地分模块更新，完整保留聊天记录、剧情分支、记忆、场景备注，且自动按名称合并状态栏模板并保留原有变量进度；\n3. 每次更新前自动保存上一版本快照，支持一键回退，并支持手动搜卡关联、忽略本版提醒与本地文件覆盖更新。"
+  "apkName": "MyRP-v1.17.1.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.1/MyRP-v1.17.1.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.1.apk",
+  "version": "1.17.1",
+  "versionCode": 41,
+  "sha256": "ae1e581086b09d935c044813ee591f03bed4eb5396c57cf1c75ddc5a7f16b182",
+  "size": 4978168,
+  "notes": "1. 修复开启「发送内容保护」时隐藏字符误注入世界书与状态栏提示导致的上下文/Token 异常翻倍问题，现仅作用于玩家亲手输入的文本；\n2. 新增与墨匠同款的「BUG 与建议」反馈入口（位于侧边栏及设置个人页），支持匿名设备或关联灯塔账号提交，支持上传截图（最多3张）与录屏（1个/10MB以内）、查看开发者回复与已修复进度弹窗提醒；\n3. 支持可选客户端报错类型与版本机型自动上报（不含角色卡正文与密钥），保留 v1.17.0 万象更新提醒与原地无损升级能力。"
 }
