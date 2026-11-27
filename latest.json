@@ -1,10 +1,10 @@
 {
-  "apkName": "MyRP-v1.16.3.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.16.3/MyRP-v1.16.3.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.16.3.apk",
-  "version": "1.16.3",
-  "versionCode": 39,
-  "sha256": "9c0dc510475127b139df308332e2da032ebeae8e60551442339b5b308da3fd2a",
-  "size": 4958940,
-  "notes": "修复 AI 回复失败后点「重抽」时看不到读秒的问题。若已收到部分正文，读秒会显示在原回复里。"
+  "apkName": "MyRP-v1.17.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.0/MyRP-v1.17.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.0.apk",
+  "version": "1.17.0",
+  "versionCode": 40,
+  "sha256": "cc399e714e13c63d2d66a14877be2ec8e2eb033f5731307fc5d5fd33e393f7df",
+  "size": 4970592,
+  "notes": "1. 新增万象角色卡更新提醒与三层角标（排在后面的更新卡会在管理页顶部横幅高亮，支持点击直达定位与「只看有更新」筛选，不打乱原有收藏排序）；\n2. 支持准一键前往万象对应卡面并拦截应用原地分模块更新，完整保留聊天记录、剧情分支、记忆、场景备注，且自动按名称合并状态栏模板并保留原有变量进度；\n3. 每次更新前自动保存上一版本快照，支持一键回退，并支持手动搜卡关联、忽略本版提醒与本地文件覆盖更新。"
 }
