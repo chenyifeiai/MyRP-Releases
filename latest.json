@@ -1,10 +1,10 @@
 {
-  "apkName": "MyRP-v1.16.2.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.16.2/MyRP-v1.16.2.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.16.2.apk",
-  "version": "1.16.2",
-  "versionCode": 38,
-  "sha256": "2cf82a2d2a6cee766a5441871f9c3a9ece8ab19abaec19879bb4736fa20a4836",
-  "size": 4958928,
-  "notes": "v1.16.2：新增墨匠全库一键迁移（含工程、AI 对话、分组、全局规则、版本快照与自定义技能，不含密钥），补齐客户端内置墨匠手机本地工作区读写与原生弹窗优化；修复世界书递归关联默认开关导致的上下文暴涨问题（老版本升级自动纠偏为默认关闭，手动开启仍永久保留），优化长对话发送与流式渲染流畅度并修复软键盘收起偶发底部留白。"
+  "apkName": "MyRP-v1.16.3.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.16.3/MyRP-v1.16.3.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.16.3.apk",
+  "version": "1.16.3",
+  "versionCode": 39,
+  "sha256": "9c0dc510475127b139df308332e2da032ebeae8e60551442339b5b308da3fd2a",
+  "size": 4958940,
+  "notes": "修复 AI 回复失败后点「重抽」时看不到读秒的问题。若已收到部分正文，读秒会显示在原回复里。"
 }
