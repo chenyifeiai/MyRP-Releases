@@ -1,10 +1,10 @@
 {
-  "apkName": "MyRP-v1.17.1.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.1/MyRP-v1.17.1.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.1.apk",
-  "version": "1.17.1",
-  "versionCode": 41,
-  "sha256": "ae1e581086b09d935c044813ee591f03bed4eb5396c57cf1c75ddc5a7f16b182",
-  "size": 4978168,
-  "notes": "1. 修复开启「发送内容保护」时隐藏字符误注入世界书与状态栏提示导致的上下文/Token 异常翻倍问题，现仅作用于玩家亲手输入的文本；\n2. 新增与墨匠同款的「BUG 与建议」反馈入口（位于侧边栏及设置个人页），支持匿名设备或关联灯塔账号提交，支持上传截图（最多3张）与录屏（1个/10MB以内）、查看开发者回复与已修复进度弹窗提醒；\n3. 支持可选客户端报错类型与版本机型自动上报（不含角色卡正文与密钥），保留 v1.17.0 万象更新提醒与原地无损升级能力。"
+  "apkName": "MyRP-v1.17.2.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.17.2/MyRP-v1.17.2.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.17.2.apk",
+  "version": "1.17.2",
+  "versionCode": 42,
+  "sha256": "454888296a6331f84a1ab8167871b6e06aa49e35ce28118706441e40c6fe18a5",
+  "size": 4978552,
+  "notes": "1. 优化「BUG 与建议」与「万象更新」弹窗视觉与手机端排版，在玻璃质感主题下统一使用不透光实底，去掉多层窄边距挤占，铺满屏幕宽度并让类型切换、附件与提交按钮、列表筛选条整齐成行；\n2. 包含 v1.17.1 全部升级：修复开启「发送内容保护」时隐藏字符误膨大世界书与状态栏上下文的问题，并加入与墨匠同款的 BUG 与建议反馈入口。"
 }
