@@ -1,10 +1,10 @@
 {
-  "version": "1.21.0",
-  "versionCode": 50,
-  "apkName": "MyRP-v1.21.0.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.21.0.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.21.0/MyRP-v1.21.0.apk",
-  "sha256": "6437ae8b159e5c0a771701fd6818df1c78e6a590c9a73b515611565021bc92e2",
-  "size": 5097915,
-  "notes": "1. 保留「原版经典」不动，重做苹果 iOS / Xbox / 轻氧玻璃并新增水墨古卷、赛博终端、恋语物语、二次元漫画、复古桌面、极简书刊（共10套，均支持日夜双模式）；2. 手机端底栏、侧边栏、角色卡排布、消息气泡与输入框全维度大改；3. 主题面板升级双列微缩预览画廊。"
+  "version": "1.21.1",
+  "versionCode": 51,
+  "apkName": "MyRP-v1.21.1.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.21.1.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.21.1/MyRP-v1.21.1.apk",
+  "sha256": "6858eab6b0680157b1bb6910b7ae7abcccdcd249107f58e28d9b16c1425cf9d7",
+  "size": 5098307,
+  "notes": "1. 修复全部主题下输入框快捷设置（模型选择与参数滑条）弹窗无反应及被裁切问题，恢复点击即开与切换模型功能；\n2. 优化带底栏主题下快捷面板的安全高度与显示层级，避免顶出顶部标题栏；\n3. 修复浅色复古桌面快捷面板内部灰阶配色，并同步保留十套差异化主题、随主题重构底栏与双列预览画廊。"
 }
