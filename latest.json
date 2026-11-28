@@ -1,10 +1,10 @@
 {
-  "version": "1.21.1",
-  "versionCode": 51,
-  "apkName": "MyRP-v1.21.1.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.21.1.apk",
-  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.21.1/MyRP-v1.21.1.apk",
-  "sha256": "6858eab6b0680157b1bb6910b7ae7abcccdcd249107f58e28d9b16c1425cf9d7",
-  "size": 5098307,
-  "notes": "1. 修复全部主题下输入框快捷设置（模型选择与参数滑条）弹窗无反应及被裁切问题，恢复点击即开与切换模型功能；\n2. 优化带底栏主题下快捷面板的安全高度与显示层级，避免顶出顶部标题栏；\n3. 修复浅色复古桌面快捷面板内部灰阶配色，并同步保留十套差异化主题、随主题重构底栏与双列预览画廊。"
+  "version": "1.21.2",
+  "versionCode": 52,
+  "apkName": "MyRP-v1.21.2.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.21.2.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.21.2/MyRP-v1.21.2.apk",
+  "sha256": "64e202a174d906f3d157e8d95917c467fe7e58cab82f146b3e4160fafa98f8bf",
+  "size": 5105191,
+  "notes": "1. 新增生图卡片右下角一键下载按钮：每张生图生成完成后，右下角「重新生成」旁直接配有保存按钮，一键保存原图到手机相册（Pictures/MyRP 目录）；\n2. 支持点击聊天图片全屏预览并保存到相册：点开对话里的生图或大图即可全屏查看并一键保存，支持按手机返回键关闭；\n3. 彻底打通外链图片与超大高清图下载保存通道：修复外链生图与大尺寸图片无法保存的问题，随身画册内的存图功能同步升级。"
 }
