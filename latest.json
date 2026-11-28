@@ -1,9 +1,10 @@
 {
-  "version": "1.20.3",
-  "versionCode": 49,
-  "apkName": "MyRP-v1.20.3.apk",
-  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.20.3.apk",
-  "sha256": "7c58c0affbb6769036aee4f5665586a325a39b36bc272b3eda8474af3dabe5e8",
-  "size": 5082827,
-  "notes": "1. 彻底修复切回聊天界面时停在中间/上方的问题：从设置、角色卡或轻聊等页面切回聊天后自动回到最新消息最底部，同步防止隐藏切换期间误触加载更早旧消息；\n2. 异步撑高跟底与触屏即停：进页面后若插图或状态栏卡片撑高界面会自动跟到底部，只要手指触碰或上滑立刻释放不抢滚动条，搜索跳转与单开场白从头阅读不受影响；\n3. 轻聊模拟同步修复：从其他页面切回轻聊模拟对话界面时自动滚回最新消息底部。"
+  "version": "1.21.0",
+  "versionCode": 50,
+  "apkName": "MyRP-v1.21.0.apk",
+  "apkUrl": "https://cg.chenyifei.xyz/myrp/MyRP-v1.21.0.apk",
+  "fallbackUrl": "https://github.com/chenyifeiai/MyRP-Releases/releases/download/v1.21.0/MyRP-v1.21.0.apk",
+  "sha256": "6437ae8b159e5c0a771701fd6818df1c78e6a590c9a73b515611565021bc92e2",
+  "size": 5097915,
+  "notes": "1. 保留「原版经典」不动，重做苹果 iOS / Xbox / 轻氧玻璃并新增水墨古卷、赛博终端、恋语物语、二次元漫画、复古桌面、极简书刊（共10套，均支持日夜双模式）；2. 手机端底栏、侧边栏、角色卡排布、消息气泡与输入框全维度大改；3. 主题面板升级双列微缩预览画廊。"
 }
